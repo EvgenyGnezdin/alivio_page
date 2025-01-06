@@ -1,3 +1,10 @@
 :root {
-    
+    --col-white: #fff;
+    --col-green: #017f67;
+    --col-dark-green: #245852;
+    --col-light-green: #01996D;
+    --col-black: #292929;
+    --col-light-black: #484848;
 }
+
+/* Media breakpoints 992px 768px 576px 480px */
